@@ -2,7 +2,7 @@
 #include<stdio.h>
 void main()
 {
-int n=4;//size of the square
+int n=5;//size of the square
 int counter=1;//counter variable to print numbers
 int sum=0;//sum variable to store the sum of numbers
 printf("\nSquare loop\n");

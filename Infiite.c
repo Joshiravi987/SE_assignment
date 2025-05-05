@@ -1,12 +1,20 @@
 #include<stdio.h>
 
 void main() {
-    int n = 5; // Size of the square
-    printf("\nSquare loop\n");
-    for (int i = 1; i <= n; i++) {   
-        for (int j = 1; j <= n; j++) { // Ensure both loops iterate `n` times
-            printf(" * ");
-        }
-        printf("\n"); // Move to the next line after each row
-    }
+    int a;
+    float b;
+    double c;
+    printf("Enter an integer: ");
+    scanf("%d", &a);
+
+    printf("Enter a float: ");
+    scanf("%f", &b);
+
+    printf("Enter a double: ");
+    scanf("%lf", &c);
+
+    printf("Integer is %d", a);
+    printf("\nFloat is %f", b);
+    printf("\nDouble is %lf", c);
+    printf("\n"); // Add newline for clean output
 }
