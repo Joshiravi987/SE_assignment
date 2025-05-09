@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Mehta/OneDrive/Desktop/C PROGRAM/Basic/Array2.c",
-      "program": "c:/Users/Mehta/OneDrive/Desktop/C PROGRAM/Basic/Array2.c/build/Debug/outDebug",
+      "cwd": "c:/Users/Mehta/OneDrive/Desktop/C PROGRAM/Basic/module2.c1604/Array.c",
+      "program": "c:/Users/Mehta/OneDrive/Desktop/C PROGRAM/Basic/module2.c1604/Array.c/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

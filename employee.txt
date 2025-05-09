@@ -1,0 +1,4 @@
+Employee name : XYS
+Employee id : 123
+Employee salary : 12398700.000000
+Employee joining date : 12/2/2122
