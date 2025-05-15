@@ -7,7 +7,7 @@
 void main()
 {
     FILE *fptr;
-    fptr = fopen("C:\\Users\\Mehta\\OneDrive\\Desktop\\C PROGRAM\\Basic\\employee.txt", "w");
+    fptr = fopen("C:\\Users\\Mehta\\OneDrive\\Desktop\\C_assignment\\employee.txt", "w");
 char name[20];
 int id;
 float salary;

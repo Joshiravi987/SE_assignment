@@ -1,7 +1,7 @@
 #include<stdio.h>
 void main(){
     FILE *fptr;
-    fptr = fopen("C:\\Users\\Mehta\\OneDrive\\Desktop\\C PROGRAM\\Basic\\employee.txt", "r");
+    fptr = fopen("C:\\Users\\Mehta\\OneDrive\\Desktop\\c_assignment\\employee.txt", "r");
     if(fptr == NULL){
         printf("file doesnot exists\n");
     }
